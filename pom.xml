@@ -31,7 +31,7 @@
 	  	<configuration>
    		<url>http://13.233.2.118:8080/manager/text</url>
    		<server>TomcatServer</server>
-   		<path>/second-demo-project</path>
+   		<path>/second-demo-projects</path>
 		  </configuration>
   </plugin>
         <plugin>
